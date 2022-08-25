@@ -155,3 +155,15 @@ nav {
     color: #242424;
     font-weight: 700;
 }
+
+/* 
+
+PROJECTS
+
+*/
+
+.section__title {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 60px;
+}
